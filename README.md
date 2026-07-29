@@ -1,1 +1,1 @@
-<head><b>Profile</b></head>
+<div align="center>
