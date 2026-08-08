@@ -1,2 +1,2 @@
 <div align="center>
-<b> <i> HOW DOES ONE DESIGN THIS.</b>
+HOW DOES ONE DESIGN THIS.
